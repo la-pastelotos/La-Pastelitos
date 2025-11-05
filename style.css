@@ -13,7 +13,8 @@
     }
 
     img{
-        width: 600px;
+                width: 30%;
+
     }
 
     .container {
@@ -70,4 +71,5 @@
 
     button:hover {
       background-color: #5851d8;
+
     }
